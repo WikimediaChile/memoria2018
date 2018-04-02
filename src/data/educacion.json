@@ -1,0 +1,39 @@
+{
+  "u": {
+    "titulo": "Wikipedia en la Universidad",
+    "pull": false,
+    "metricas": [{
+        "numero": 4,
+        "metrica": "universidades"
+      },
+      {
+        "numero": 100,
+        "metrica": "estudiantes"
+      },
+      {
+        "numero": 63,
+        "metrica": "artículos creados y mejorados"
+      }
+    ],
+    "imagenes": [{
+        "title": "Taller de edición - Universidad Alberto Hurtado",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Programa_Educativo_de_Wikipedia_1.jpg/1024px-Programa_Educativo_de_Wikipedia_1.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Programa_Educativo_de_Wikipedia_1.jpg/640px-Programa_Educativo_de_Wikipedia_1.jpg"
+      },
+      {
+        "title": "Taller de edición - Universidad Tecnológica Metropolitana",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg/1024px-Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg/640px-Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg"
+      },
+      {
+        "title": "Taller de edición - Inacap",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg/1024px-Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg/640px-Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg"
+      }
+    ]
+  },
+  "wikipuentes": {
+    "titulo": "Wikipuentes",
+    "pull": false
+  }
+}
