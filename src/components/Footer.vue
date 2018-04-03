@@ -5,7 +5,7 @@
             <div class="col-sm-10 mr-auto text-left">
                 <address>
                 <strong>Wikimedia Chile</strong><br />
-                Avenida Nueva Providencia 1910, oficina 1910<br />
+                Avenida Nueva Providencia 1881, oficina 2110<br />
                 Providencia, Santiago<br />
                 contacto@wikimedia.cl
               </address>
@@ -30,6 +30,15 @@
 
             </div>
 
+        </div>
+        <div class="row">
+            <div class="col-12 small">
+                <br>
+                <hr />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/88px-CC-BY-SA_icon.svg.png" alt="CC-BY-SA">
+                <br />
+                Con <i class="fa fa-heart"></i> desde Chile para el mundo | <a href="https://startbootstrap.com/template-overviews/creative/">Creative</a> | <a href="https://github.com/dennistobar">dennistobar</a>
+            </div>
         </div>
     </div>
 </section>
