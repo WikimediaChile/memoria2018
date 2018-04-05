@@ -29,8 +29,8 @@
                 :key="imageIndex"
                 @click="index = imageIndex"
                 >
-                <div class="portfolio-box" style="height: 300px; overflow-y: hidden">
-                    <img :src="image.thumbnail" class="img-fluid">
+                <div class="portfolio-box">
+                    <img :src="image.thumbnail" :alt="image.title">
                   <div class="portfolio-box-caption">
                     <div class="portfolio-box-caption-content">
                       <div class="project-category text-faded">
@@ -61,7 +61,7 @@ export default {
   data() {
     return {
       index: null,
-      rand: Math.round(Math.random()*1e6)
+      rand: Math.round(Math.random() * 1e6)
     }
   }
 
@@ -71,5 +71,8 @@ export default {
 <style lang="css">
 section {
     padding-bottom: 2rem!important;
+}
+.portfolio-box {
+    height: 300px;overflow: hidden;align-items: center;display: flex
 }
 </style>
