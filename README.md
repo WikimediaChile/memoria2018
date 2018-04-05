@@ -1,6 +1,6 @@
-# memoria2017
-
 > Memoria 2017 - Wikimedia Chile
+
+La memoria está hecha con amor y cariño con VueJS, por lo cual a continuación están las instrucciones para generar el sitio.
 
 ## Build Setup
 

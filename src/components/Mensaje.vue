@@ -26,7 +26,7 @@
             <p>Otro de los enfoques del trabajo de Wikimedia Chile ha sido la difusi&oacute;n de nuestros proyectos y la integraci&oacute;n de m&aacute;s voluntarios y voluntarias a los proyectos Wikimedia, con especial &eacute;nfasis en la reducci&oacute;n de la brecha de g&eacute;nero. Dentro de estos esfuerzos, en septiembre de 2017 se realiz&oacute; la editat&oacute;n m&aacute;s grande realizada hasta el momento en nuestro pa&iacute;s, que cont&oacute; con m&aacute;s de 60 participantes en el Museo Nacional de Bellas Artes, siendo la mayor&iacute;a de ellas mujeres.</p>
             <p>Adem&aacute;s, durante 2017 se realizaron distintas actividades de generaci&oacute;n de contenidos libres, produciendo tanto art&iacute;culos de Wikipedia (mediante los concursos La mujer que nunca conociste y Puentes entre culturas) como im&aacute;genes (a trav&eacute;s del concurso Wiki Ciencia y el proyecto de acreditaci&oacute;n de eventos deportivos y otros), que permitieron mejorar la informaci&oacute;n disponible sobre nuestra cultura local en los proyectos Wikimedia.</p>
             <p>A nombre del Directorio 2017-2019, agradezco el apoyo de las y los socios que se comprometieron a participar de las actividades y proyectos realizados durante el a&ntilde;o 2017, con un especial reconocimiento a los miembros del Directorio anterior, quienes ayudaron a completar las tareas administrativas de nuestra Corporaci&oacute;n.</p>
-            <p>Nuestra Corporaci&oacute;n tiene muchos desaf&iacute;os por delante, que se resumen en tres conceptos: estabilidad, crecimiento y profesionalizaci&oacute;n. Creemos que estas metas, a pesar de que podr&iacute;an sonar algo ambiciosas para algunos, son absolutamente posibles con un trabajo mancomunado de este Directorio y las y los socios de Wikimedia Chile. Los invitamos a proponer nuevas ideas (en jerga wikipedista, &ldquo;s&eacute; valiente&rdquo;) que ayuden a consolidar nuestro trabajo como voluntarias y voluntarios de los proyectos Wikimedia, para lograr el fin ulterior de que el conocimiento libre llegue a todas y todos.</p>
+            <p>Wikimedia Chile tiene numerosos desafíos por delante, que se resumen en tres conceptos: estabilidad, crecimiento y profesionalización. Creemos que estas metas, a pesar de que podrían sonar algo ambiciosas para algunos, son absolutamente posibles con un trabajo mancomunado de este Directorio y las y los socios de nuestra Corporación. Los invitamos a proponer nuevas ideas (en jerga wikipedista, “<i>sé valiente</i>”), que ayuden a consolidar nuestro trabajo como voluntarias y voluntarios de los proyectos Wikimedia, para lograr el fin ulterior de que el conocimiento libre llegue a todas y todos.</p>
             <p>Saluda atentamente,</p>
             <p class="text-right" style="font-style: italic"> Marco Correa P&eacute;rez<br /> Presidente</p>
             </div>
@@ -57,9 +57,9 @@
               <dt class="col-sm-3">Socios de la Corporación</dt>
               <dd class="col-sm-9">
                   <dl class="row">
-                      <dd class="col-sm-12">37 socios activos</dd>
+                      <dd class="col-sm-12">36 socios activos</dd>
+                      <dd class="col-sm-12">1 socio adherente</dd>
                       <dd class="col-sm-12">0 socios cadetes</dd>
-                      <dd class="col-sm-12">0 socios adherentes</dd>
                   </dl>
               </dd>
 
