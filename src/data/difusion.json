@@ -102,19 +102,19 @@
 		"titulo": "Cobertura de deportes y otros eventos",
 		"pull": false,
 		"metricas": [{
-				"numero": 4,
+				"numero": 5,
 				"metrica": "eventos"
 			},
 			{
-				"numero": 187,
+				"numero": 267,
 				"metrica": "fotografías"
 			},
 			{
-				"numero": 9,
+				"numero": 3,
 				"metrica": "imágenes de calidad"
 			},
 			{
-				"numero": "96",
+				"numero": 96,
 				"metrica": "artículos ilustrados"
 			}
 		],
