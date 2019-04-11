@@ -1,7 +1,12 @@
 <template lang="html">
     <div>
         <app-section :elemento="data.charlas" :metricas="data.charlas.metricas" :images="data.charlas.imagenes">
-            Wikimedia Chile estuvo presente en diversas actividades propiciando charlas a personas e instituciones que se interesaron por acercarse a los proyectos Wikimedia. Los voluntarios de Wikimedia Chile desarrollaron charlas en la Biblioteca Nacional, el Instituto de la Comunicación e Imagen de la Universidad de Chile, la conferencia TecnoX 2018 en Valparaíso. En todas estas instancias, las personas que participaron en los eventos presentaron inquietudes de cómo integrar y los mecanismos para contribuir en los proyectos Wikimedia.
+          <p>
+            Estuvimos presente en diversas actividades dictando charlas a personas e instituciones que se interesaron por acercarse a los proyectos Wikimedia. <br />Los voluntarios de Wikimedia Chile realizaron charlas en la Biblioteca Nacional de Chile, el Instituto de la Comunicación e Imagen de la Universidad de Chile, la conferencia TecnoX 2018 en Valparaíso.
+          </p>
+          <p>
+            En todas estas instancias, las personas que participaron en los eventos presentaron inquietudes de cómo integrar y los mecanismos para contribuir en los proyectos Wikimedia. La mayoría de las charlas fueron de presentación de los proyectos y cómo el conocimiento lobre está siendo un tema de importancia en diversas esferas de la ciudadanía y la formación de futuros profesionales, así como fuente verificación para evitar difundir las <i>fake news</i>.
+          </p>
         </app-section>
 
         <app-section :elemento="data.editatones" :metricas="data.editatones.metricas" :images="data.editatones.imagenes">
@@ -9,14 +14,14 @@
               En 2018, desarrollamos diversas editatones con varias instituciones que por primera vez colaboraron con nuestra organización.
             </p>
             <p>
-              En abril, junto a la Embajada de Suecia en Chile y colaboración con el Centro Cultural Palacio de La Moneda desarrollamos <b>Wiki Gap</b>, evento que persiguió la creación de artículos de mujeres en el cine.
+              En abril, junto a la Embajada de Suecia en Chile y colaboración con el Centro Cultural Palacio de La Moneda desarrollamos <b>Wiki Gap</b>, evento que persiguió la creación de artículos de mujeres en el cine chileno y sueco. Contó cno la participación de personas suecohablantes, quienes crearon artículos en su idioma acerca de actrices chilenas.
             </p>
             <p>
               En mayo, nos desplazamos hasta la región de Aysén, para profundizar una alianza regional que realizamos en 2017. En el evento denominado <b>Editatón sobre el patrimonio de Aysén</b> los voluntarios de Wikimedia Chile ayudaron a la comunidad local a integrar contenidos relevantes de Aysén en Wikipedia, para profundizar la cobertura de contenidos locales en los proyectos Wikimedia. A raíz de este evento, firmamos un convenido de colaboración entre el Museo Regional de Aysén y Wikimedia Chile, para explorar nuevas formas de colaboración a distancia y posiblemente presencial durante 2019.
             </p>
 
             <p>
-              En junio, desarrollamos una versión local de #1bib1ref (<i>en inglés #1lib1ref</i>), evento donde se invitan a los bibliotecarios y biliotecarias a mejorar Wikipedia con referencias en sus áreas de estudio. La jornada se desarrolló en al Biblioteca de Santiago y contó con la colaboración de la Escuela de Bibliotecología de la Universidad Tecnológica Metropolitana.
+              En junio, desarrollamos una versión local de #1bib1ref (<i>en inglés #1lib1ref</i>), evento donde se invitan a los bibliotecarios y biliotecarias a mejorar Wikipedia con referencias, basándose en el conocimiento de cómo realizar citas en y el libre acceso a determinadas fuentes de información. La jornada se desarrolló en al Biblioteca de Santiago y contó con la colaboración de la Escuela de Bibliotecología y la Vicerrectoría de Transferencia Tecnológica y Extensión de la Universidad Tecnológica Metropolitana.
             </p>
 
             <p>
@@ -24,7 +29,7 @@
             </p>
 
             <p>
-              A inicios del mes de septiembre, en conjunto de la Biblioteca Regional de Coquimbo desarrollamos una editatón para mejorar contenidos locales de la región y de Gabriela Mistral. En esta ocasión se presentó el concurso del Mes de Mistral, evento que buscó mejorar los contenidos de Mistral en Wikipedia en español.
+              A inicios del mes de septiembre, en conjunto de la Biblioteca Regional de Coquimbo desarrollamos una editatón para mejorar contenidos locales de la región y de Gabriela Mistral. En esta ocasión se presentó el concurso del Mes de Mistral, concurso quelogró mejorar los contenidos de Gabriela Mistral en Wikipedia en español.
             </p>
 
             <p>

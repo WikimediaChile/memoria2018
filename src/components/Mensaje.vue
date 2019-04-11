@@ -27,7 +27,7 @@ Esto nos ha permitido escalar en la profesionalizaci&oacute;n para este a&ntilde
 Me permito la licencia de agradecer a las/os socias/os de Wikimedia Chile que me han depositado su confianza, durante dos periodos, como presidente de la Corporaci&oacute;n. As&iacute; mismo, quiero manifestar mi profundo agradecimiento a Roc&iacute;o, Carlos, Osmar, Dennis y Claudio por todo el trabajo (muchas veces silencioso) que han realizado durante el binomio 2017-2019, y que nos ha permitido conseguir todos los avances antes expuestos.</p><p>
 Mucho &eacute;xito para el pr&oacute;ximo Directorio, y sobre todo para quien ocupe el cargo de presidente/a durante los siguientes dos a&ntilde;os. &iexcl;Vamos por m&aacute;s!</p>
             <p>Saluda atentamente,</p>
-            <p class="text-right" style="font-style: italic"> Marco Correa P&eacute;rez Presidente</p>
+            <p class="text-right" style="font-style: italic"> Marco Correa P&eacute;rez <br>Presidente</p>
             </div>
         </div>
       </div>
