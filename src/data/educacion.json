@@ -2,23 +2,25 @@
   "u": {
     "titulo": "Wikipedia en la Universidad",
     "pull": false,
-    "metricas": [{
-        "numero": 4,
+    "metricas": [
+      {
+        "numero": 6,
         "metrica": "universidades"
       },
       {
-        "numero": 100,
+        "numero": 177,
         "metrica": "estudiantes"
       },
       {
-        "numero": 63,
+        "numero": 152,
         "metrica": "artículos creados y mejorados"
       }
     ],
-    "imagenes": [{
-        "title": "Taller de edición - Universidad Alberto Hurtado",
-        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Programa_Educativo_de_Wikipedia_1.jpg/1024px-Programa_Educativo_de_Wikipedia_1.jpg",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Programa_Educativo_de_Wikipedia_1.jpg/640px-Programa_Educativo_de_Wikipedia_1.jpg"
+    "imagenes": [
+      {
+        "title": "Editatón de Escritores Chilenos - Universidad Tecnológica Metropolitana",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Editat%C3%B3n_de_Escritores_Chilenos_2018_-_02.jpg/1024px-Editat%C3%B3n_de_Escritores_Chilenos_2018_-_02.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Editat%C3%B3n_de_Escritores_Chilenos_2018_-_02.jpg/640px-Editat%C3%B3n_de_Escritores_Chilenos_2018_-_02.jpg"
       },
       {
         "title": "Taller de edición - Universidad Tecnológica Metropolitana",
@@ -26,14 +28,28 @@
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg/640px-Taller_de_edici%C3%B3n_en_UTEM_-_04.jpg"
       },
       {
-        "title": "Taller de edición - Inacap",
-        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg/1024px-Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg/640px-Presentaci%C3%B3n_Edgardo_Adriano_Figueroa_1.jpg"
+        "title": "Editatón de Mujeres Arquitectas - Universidad de Chile",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Editatón_de_arquitectas_chilenas_2018_-_01.jpg/1024px-Editatón_de_arquitectas_chilenas_2018_-_01.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Editatón_de_arquitectas_chilenas_2018_-_01.jpg/640px-Editatón_de_arquitectas_chilenas_2018_-_01.jpg"
       }
     ]
   },
   "wikipuentes": {
     "titulo": "Wikipuentes",
     "pull": false
+  },
+  "videotutoriales": {
+    "titulo": "Videotutoriales",
+    "pull": true,
+    "metricas": [
+      {
+        "numero": 8,
+        "metrica": "videos"
+      },
+      {
+        "numero": "300+",
+        "metrica": "visualizaciones en el primer mes"
+      }
+    ]
   }
 }

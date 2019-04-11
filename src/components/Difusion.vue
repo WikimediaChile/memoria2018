@@ -1,31 +1,72 @@
 <template lang="html">
     <div>
         <app-section :elemento="data.charlas" :metricas="data.charlas.metricas" :images="data.charlas.imagenes">
-            <p>La difusi&oacute;n es uno de los principales componentes en el quehacer de Wikimedia Chile, ya que a trav&eacute;s de ella se busca tanto involucrar a nuevas personas como colaboradoras de los proyectos de la Fundaci&oacute;n Wikimedia, como crear o estrechar lazos con instituciones nacionales para el dise&ntilde;o y organizaci&oacute;n de nuevas ideas o la implementaci&oacute;n de experiencias internacionales exitosas en nuestro pa&iacute;s.</p>
-            <p>Las charlas, principalmente originadas por iniciativa de otras organizaciones, se centraron en la presentaci&oacute;n de Wikipedia, junto a los dem&aacute;s proyectos Wikimedia, y la filosof&iacute;a del conocimiento libre. Durante 2017 nuestros voluntarios dictaron charlas en eventos como Virtual Educa, Congreso de Bibliotecarios, Art+Feminism, Open Con y Primavera Hacker, en las que se congregaron m&aacute;s de 200 personas en total, quienes tuvieron la oportunidad de conocer m&aacute;s acerca de los valores y objetivos del movimiento Wikimedia y la importancia que tiene, dentro del quehacer humano, las iniciativas de cultura libre.</p>
-            <p>En el contexto del proceso de Estrategia Wikimedia 2030, desarrollado por la Fundaci&oacute;n Wikimedia durante gran parte de 2017, Wikimedia Chile realiz&oacute; una reuni&oacute;n con expertos locales de diversas &aacute;reas del conocimiento, con el fin de que pudieran dar su perspectiva acerca de la direcci&oacute;n estrat&eacute;gica que debe tener nuestro movimiento para los siguientes 13 a&ntilde;os. El evento, desarrollado en las oficinas del Servicio Nacional de Turismo, cont&oacute; con la participaci&oacute;n de 8 invitados y 5 voluntarios. El presidente de nuestra organizaci&oacute;n, Marco Correa, pudo relatar los resultados de la discusi&oacute;n generada en el evento durante un panel realizado en la conferencia Wikimania 2017. </p>
+            Wikimedia Chile estuvo presente en diversas actividades propiciando charlas a personas e instituciones que se interesaron por acercarse a los proyectos Wikimedia. Los voluntarios de Wikimedia Chile desarrollaron charlas en la Biblioteca Nacional, el Instituto de la Comunicación e Imagen de la Universidad de Chile, la conferencia TecnoX 2018 en Valparaíso. En todas estas instancias, las personas que participaron en los eventos presentaron inquietudes de cómo integrar y los mecanismos para contribuir en los proyectos Wikimedia.
         </app-section>
 
         <app-section :elemento="data.editatones" :metricas="data.editatones.metricas" :images="data.editatones.imagenes">
-            <p>En el curso del a&ntilde;o desarrollamos un total de 4 editatones presenciales, dos de las cuales formaron parte del programa de Educaci&oacute;n y las otras dos se enfocaron en la reducci&oacute;n de la brecha de g&eacute;nero en los contenidos locales.</p>
-            <p>En marzo desarrollamos la editat&oacute;n del D&iacute;a de la Mujer en la Biblioteca de Santiago, la segunda en torno a esta importante fecha tras la editat&oacute;n de 2015, la cual congreg&oacute; a 16 personas, quienes crearon 11 art&iacute;culos y mejoraron otros 6, todos relacionados con mujeres destacadas sobre las que exist&iacute;a insuficiente o nula informaci&oacute;n en la Wikipedia en espa&ntilde;ol.</p>
-            <p>El 29 de septiembre se desarroll&oacute; la Editat&oacute;n de Mujeres Artistas en el hall del Museo Nacional de Bellas Artes, donde participaron de 62 personas, quienes crearon y mejoraron 55 art&iacute;culos de mujeres chilenas destacadas en el &aacute;mbito de las artes visuales y pl&aacute;sticas, que suelen ser invisibilizadas por la sociedad. Durante la jornada tambi&eacute;n se realizaron dos talleres de edici&oacute;n para las participantes. Sin duda esta ha sido la editat&oacute;n m&aacute;s exitosa en la historia de nuestra organizaci&oacute;n, no solo por haber logrado un n&uacute;mero in&eacute;dito de participantes, sino que adem&aacute;s porque la gran mayor&iacute;a de ellos fueron mujeres, lo cual es un importante esfuerzo en la reducci&oacute;n de la brecha de g&eacute;nero en Wikipedia.</p>
-            <p>En instancias virtuales, cooperamos con diversas organizaciones de la iniciativa Iberocoop en la organizaci&oacute;n de eventos virtuales -editatones y concursos-, poniendo &eacute;nfasis en la difusi&oacute;n de los mismos en redes sociales y cooperando en la realizaci&oacute;n de art&iacute;culos. La editat&oacute;n del D&iacute;a de la Mujer y la Ni&ntilde;a en la Ciencia es una iniciativa iniciada por Wikimedia Espa&ntilde;a, la cual busca la creaci&oacute;n de biograf&iacute;as de mujeres dedicadas a la ciencia. La mujer que nunca conociste es un concurso desarrollado por Wikimedia Argentina que busca crear la biograf&iacute;a de mujeres faltantes en Wikipedia. </p>
+            <p>
+              En 2018, desarrollamos diversas editatones con varias instituciones que por primera vez colaboraron con nuestra organización.
+            </p>
+            <p>
+              En abril, junto a la Embajada de Suecia en Chile y colaboración con el Centro Cultural Palacio de La Moneda desarrollamos <b>Wiki Gap</b>, evento que persiguió la creación de artículos de mujeres en el cine.
+            </p>
+            <p>
+              En mayo, nos desplazamos hasta la región de Aysén, para profundizar una alianza regional que realizamos en 2017. En el evento denominado <b>Editatón sobre el patrimonio de Aysén</b> los voluntarios de Wikimedia Chile ayudaron a la comunidad local a integrar contenidos relevantes de Aysén en Wikipedia, para profundizar la cobertura de contenidos locales en los proyectos Wikimedia. A raíz de este evento, firmamos un convenido de colaboración entre el Museo Regional de Aysén y Wikimedia Chile, para explorar nuevas formas de colaboración a distancia y posiblemente presencial durante 2019.
+            </p>
+
+            <p>
+              En junio, desarrollamos una versión local de #1bib1ref (<i>en inglés #1lib1ref</i>), evento donde se invitan a los bibliotecarios y biliotecarias a mejorar Wikipedia con referencias en sus áreas de estudio. La jornada se desarrolló en al Biblioteca de Santiago y contó con la colaboración de la Escuela de Bibliotecología de la Universidad Tecnológica Metropolitana.
+            </p>
+
+            <p>
+              En junio también se desarrolló la versión chilena de WikiDDHH, instancia de cooperación generada por Wikimedia Argentina que busca documentar las violaciones a los derechos humanos en los países del Cono Sur. En la jornada, desarrollada en el Museo de la Memoria y los Derechos Humanos, se mejoraron artículos de la causa mapuche, escasez del agua en Petorca y otros colectivos relacionados con los derechos humanos en nuestro país. Esta jornada contó con la organización de Wikimedia Argentina, Amnistía Internacional Chile y Open Society.
+            </p>
+
+            <p>
+              A inicios del mes de septiembre, en conjunto de la Biblioteca Regional de Coquimbo desarrollamos una editatón para mejorar contenidos locales de la región y de Gabriela Mistral. En esta ocasión se presentó el concurso del Mes de Mistral, evento que buscó mejorar los contenidos de Mistral en Wikipedia en español.
+            </p>
+
+            <p>
+              Por último, a mediados de diciembre surgieron dos editatones que buscaron documentar a los escritores chilenos y las mujeres en la arquitectura nacional. En la primera editatón, desarrollada el 15 de diciembre, contó con la participación de la Sociedad de Escritores de Chile, Vicerrectoría de Transferencia Tecnológica y Extensión de la Universidad Tecnológica Metropolitana y la Facultad de Administración y Economía de la UTEM. En la editatón de mujeres arquitectas, la jornada se desarrolló en la Facultad de Arquitectura y Urbanismo de la Universidad de Chile.
+            </p>
         </app-section>
         <app-section :elemento="data.concursos" :metricas="data.concursos.metricas" :images="data.concursos.imagenes">
-            <p>Wikimedia Chile organiz&oacute; el concurso de edici&oacute;n internacional Puentes entre Culturas, que cont&oacute; con la participaci&oacute;n de varios cap&iacute;tulos y grupos de usuarios de Wikimedia, agrupados en las iniciativas regionales de Iberocoop (Iberoam&eacute;rica) y Wikiarabia (Medio Oriente y el norte de &Aacute;frica). El concurso ten&iacute;a como objetivo incentivar el intercambio cultural entre ambas regiones mediante la traducci&oacute;n de contenidos entre las ediciones idiom&aacute;ticas de Wikipedia (art&iacute;culos sobre Iberoam&eacute;rica en &aacute;rabe, persa o turco y sobre el mundo &aacute;rabe en espa&ntilde;ol o portugu&eacute;s), en las categor&iacute;as de cultura culinaria y tradiciones, artes visuales, literatura, m&uacute;sica y monumentos. Se crearon o mejoraron un total de 832 art&iacute;culos (802 nuevos), de los cuales 272 corresponden a la Wikipedia en espa&ntilde;ol.</p>
-            <p>En noviembre organizamos la versi&oacute;n local de Wiki Ciencia (Wiki Science), concurso internacional de fotograf&iacute;a que busca obtener nuevas im&aacute;genes cient&iacute;ficas para Wikimedia Commons. El concurso en nuestro pa&iacute;s se extendi&oacute; por 32 d&iacute;as y cont&oacute; con una participaci&oacute;n de 25 personas, quienes aportaron con 71 im&aacute;genes sobre geolog&iacute;a, instrumentos cient&iacute;ficos, fauna e im&aacute;genes microsc&oacute;picas, entre otros temas. </p>
+            <p>
+              En el 2018, Wikimedia Chile desarrolló tres concursos para mejorar los contenidos de Wikimedia Commons y Wikipedia.
+            </p>
+
+            <p>
+              <b>Wiki Loves Earth Chile</b> fue un concurso fotográfico para capturar los parques nacionales, santuarios de la naturaleza y zonas protegidas de nuestro país. El concurso contó con el apoyo del Servicio Nacional de Turismo y la Corporación Nacional Forestal. Wiki Loves Earth Chile logró recolectar más de 1000 fotografías de nuestros espacios naturales.
+            </p>
+
+            <p>
+              El <b>Mes de Mistral</b> fue un concurso orientado a mejorar los contenidos de Gabriela Mistral en Wikipedia en español, debido a la baja cobertura y extensión de contenidos entre Mistral y Neruda, siendo que ambos ganaron el premio Nobel de Literatura.
+            </p>
+
+            <p>
+              El concurso <b>Puente entre Culturas</b> vivió su segunda edición. Este concurso tiene por objetivo mejorar los contenidos del mundo asiático en Wikipedia en español, así como se mejoran los contenidos de Latinoamérica en las versiones de Asia.
+            </p>
+
+            <p>
+              Así mismo, por la cooperación con Iberocoop, Wikimedia Chile se sumó al concurso internacional del mes de la mujer llamado <b>La Mujer Que Nunca Conociste</b>, evento donde se busca crear y mejorar las biografías de mujeres destacadas en los países integrantes de la iniciativa regional. También nos integramos a la versión de #1bib1ref (1 bibiotecari@, 1 referencia)
+            </p>
         </app-section>
         <app-section :elemento="data.fotos" :metricas="data.fotos.metricas" :images="data.fotos.imagenes">
-            <p>A contar de 2016 se ha desarrollado el proyecto de acreditaci&oacute;n para la cobertura fotogr&aacute;fica de eventos deportivos y otras actividades. En 2017 se registraron cinco eventos de diversa importancia, entre ellos el festival de arte urbano Hecho en Casa Fest y la Telet&oacute;n 2017. En esta &uacute;ltima se cont&oacute; con una acreditaci&oacute;n oficial para ingresar al Teatro Telet&oacute;n, lo cual permiti&oacute; obtener fotograf&iacute;as de artistas, m&uacute;sicos y animadores de televisi&oacute;n que participaron en la jornada, con las que se pudo ilustrar y actualizar distintas biograf&iacute;as en Wikipedia.</p>
-            <p>En total, el proyecto ha recopilado 267 fotograf&iacute;as, de las cuales 13 fueron seleccionadas como fotograf&iacute;as de calidad en Wikimedia Commons. Se han usado 46 fotograf&iacute;as distintas en 96 art&iacute;culos en todas las versiones idiom&aacute;ticas de Wikipedia. </p>
+            <p>
+              Desde 2016, Wikimedia Chile ha contado con el equipamiento para realizar registros fotográficos de eventos deportivos, premiaciones y galas de música y farándula. Durante 2018 Wikimedia Chile fue acreditado por primera vez por la Asociación Nacional de Fútbol Profesional para asistir a todos los partidos organizados por esta institución, como partidos de Primera A, Primera B y Selección Femenina de fútbol.
+            </p>
+
+            <p>
+              Durante 2018, se subieron 727 fotografías a Wikimedia Commons, siendo usadas en más de 1000 artículos en todas las ediciones lingüísticas de Wikipedia y otros proyectos Wikimedia. En este período, las personas voluntarias de Wikimedia Commons seleccionaron 70 imágenes de calidad.
+            </p>
         </app-section>
     </div>
 </template>
 
 <script>
-import Section from './mixin/Section'
-import data from '../data/difusion.json'
+import Section from "./mixin/Section";
+import data from "../data/difusion.json";
 export default {
   components: {
     AppSection: Section
@@ -33,11 +74,10 @@ export default {
   data() {
     return {
       data
-    }
+    };
   }
-}
+};
 </script>
 
 <style lang="css">
-
 </style>

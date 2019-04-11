@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Mensaje del presidente</h2><br />
+            <h2 class="section-heading">Mensaje del presidente</h2><br>
             <h4>Marco Correa Pérez</h4>
             <hr class="my-4">
           </div>
@@ -14,21 +14,20 @@
         <div class="row">
             <div class="col-lg-4 d-none d-lg-block order-12">
                 <img
-                  src="/static/presidente.png"
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/International_Wikipedia_Scientific_Conference_Day_2_-_25.jpg/300px-International_Wikipedia_Scientific_Conference_Day_2_-_25.jpg"
                   class="rounded">
             </div>
           <div class="col-lg-8 col-md12 text-justify">
-            <p>Estimadas/os socias/os:</p>
-            <p>El documento que leen es el fruto de los esfuerzos realizados por nuestra Corporaci&oacute;n durante 2017, que se enmarcan en un proceso de cambios en nuestro gobierno corporativo y una reformulaci&oacute;n del plan de trabajo que ven&iacute;a haciendo nuestra organizaci&oacute;n durante los &uacute;ltimos a&ntilde;os.</p>
-            <p>El primer semestre se vio marcado por la elecci&oacute;n de un nuevo Directorio, asumido en abril de 2017, que ha instalado como prioridad el desarrollo de un plan estrat&eacute;gico bianual, cuyo fin es poner al d&iacute;a nuestros compromisos con la Fundaci&oacute;n Wikimedia y otras instituciones, revitalizar nuestras actividades y escalar gradualmente el impacto de nuestra organizaci&oacute;n en el mediano y largo plazo.</p>
-            <p>Como parte de este plan, durante 2017 Wikimedia Chile fue capaz de cumplir con la rendici&oacute;n de sus actividades a la Fundaci&oacute;n Wikimedia. Ello nos permiti&oacute; postular al financiamiento de los proyectos planificados para el segundo semestre del a&ntilde;o, los cuales han sido mayoritariamente ejecutados y rendidos a la Fundaci&oacute;n. Tambi&eacute;n se logr&oacute; actualizar la documentaci&oacute;n interna de la Corporaci&oacute;n, especialmente respecto de las actas de las Sesiones de Directorio, y se est&aacute; en proceso de regularizar otras situaciones administrativas pendientes.</p>
-            <p>En lo referente a los proyectos realizados, ha sido un objetivo prioritario de este Directorio el trabajo en el &aacute;rea de Educaci&oacute;n, que se ha materializado con la adopci&oacute;n del proyecto Wikipuentes, creado por Wikimedia Argentina para docentes de educaci&oacute;n b&aacute;sica y media, y la consolidaci&oacute;n de Wikipedia en la Universidad, que durante 2017 tuvo presencia en cuatro instituciones de educaci&oacute;n superior, incluyendo una actividad realizada en Valpara&iacute;so.</p>
-            <p>Otro de los enfoques del trabajo de Wikimedia Chile ha sido la difusi&oacute;n de nuestros proyectos y la integraci&oacute;n de m&aacute;s voluntarios y voluntarias a los proyectos Wikimedia, con especial &eacute;nfasis en la reducci&oacute;n de la brecha de g&eacute;nero. Dentro de estos esfuerzos, en septiembre de 2017 se realiz&oacute; la editat&oacute;n m&aacute;s grande realizada hasta el momento en nuestro pa&iacute;s, que cont&oacute; con m&aacute;s de 60 participantes en el Museo Nacional de Bellas Artes, siendo la mayor&iacute;a de ellas mujeres.</p>
-            <p>Adem&aacute;s, durante 2017 se realizaron distintas actividades de generaci&oacute;n de contenidos libres, produciendo tanto art&iacute;culos de Wikipedia (mediante los concursos La mujer que nunca conociste y Puentes entre culturas) como im&aacute;genes (a trav&eacute;s del concurso Wiki Ciencia y el proyecto de acreditaci&oacute;n de eventos deportivos y otros), que permitieron mejorar la informaci&oacute;n disponible sobre nuestra cultura local en los proyectos Wikimedia.</p>
-            <p>A nombre del Directorio 2017-2019, agradezco el apoyo de las y los socios que se comprometieron a participar de las actividades y proyectos realizados durante el a&ntilde;o 2017, con un especial reconocimiento a los miembros del Directorio anterior, quienes ayudaron a completar las tareas administrativas de nuestra Corporaci&oacute;n.</p>
-            <p>Wikimedia Chile tiene numerosos desafíos por delante, que se resumen en tres conceptos: estabilidad, crecimiento y profesionalización. Creemos que estas metas, a pesar de que podrían sonar algo ambiciosas para algunos, son absolutamente posibles con un trabajo mancomunado de este Directorio y las y los socios de nuestra Corporación. Los invitamos a proponer nuevas ideas (en jerga wikipedista, “<i>sé valiente</i>”), que ayuden a consolidar nuestro trabajo como voluntarias y voluntarios de los proyectos Wikimedia, para lograr el fin ulterior de que el conocimiento libre llegue a todas y todos.</p>
+            <p>Esta Memoria no es solo la demostraci&oacute;n del trabajo realizado durante un a&ntilde;o calendario en nuestra Corporaci&oacute;n, sino que es la culminaci&oacute;n de un ciclo, el del Directorio 2017-2019, que ha impulsado los avances que muchas y muchos anhel&aacute;bamos para Wikimedia Chile, pero que no se hab&iacute;an podido materializar por distintas razones de car&aacute;cter interno y externo.</p><p>
+En primer lugar, nuestro cap&iacute;tulo ha expandido y consolidado su compromiso en las tem&aacute;ticas relevantes, como educaci&oacute;n, instituciones culturales y g&eacute;nero, lo cual se ha visto materializado en diversas actividades y alianzas institucionales que nos permiten definir desde ya un camino para lo que se realizar&aacute; en los pr&oacute;ximos a&ntilde;os dentro de nuestra instituci&oacute;n.</p><p>
+Adem&aacute;s, hemos logrado expandir nuestro quehacer fuera de Santiago, con actividades en las ciudades de Coquimbo, Valpara&iacute;so, Concepci&oacute;n, Valdivia y Coyhaique, lo cual es una muestra del compromiso de Wikimedia Chile con la regionalizaci&oacute;n. La suma del conocimiento humano proviene de mujeres y hombres, de capitalinos y provincianos, de j&oacute;venes y adultos. Espero que en el futuro podamos seguir reduciendo las brechas y llegar a otras y otros a quienes a&uacute;n no llegamos.</p><p>
+Todos estos logros han sido posibles a los esfuerzos puestos en el dise&ntilde;o y reporte de las solicitudes de fondos a la Fundaci&oacute;n Wikimedia, mediante propuestas anuales coherentes y responsables con el dinero de las y los donantes, y que han demostrado a la Fundaci&oacute;n que somos un cap&iacute;tulo maduro y con mucho por crecer.</p><p>
+La confianza depositada en Wikimedia Chile nos ha permitido dar importantes pasos, como la contrataci&oacute;n de nuestra primera trabajadora permanente, Patricia D&iacute;az, en el rol de coordinadora general, quien ha sido vital para ayudar a este Directorio a materializar sus metas, ya que, como todos sabemos, somos personas voluntarias que no siempre disponemos de todo el tiempo libre que desear&iacute;amos invertir en el crecimiento de Wikimedia.</p><p>
+Esto nos ha permitido escalar en la profesionalizaci&oacute;n para este a&ntilde;o 2019, que en su primer tercio ha tenido tres hitos de alta importancia en nuestra historia institucional: la exitosa organizaci&oacute;n de Iberoconf 2019; la contrataci&oacute;n de nuestra encargada de educaci&oacute;n, Roc&iacute;o Aravena; y la pr&oacute;xima inauguraci&oacute;n de la primera oficina de nuestra Corporaci&oacute;n en Santiago.</p><p>
+Me permito la licencia de agradecer a las/os socias/os de Wikimedia Chile que me han depositado su confianza, durante dos periodos, como presidente de la Corporaci&oacute;n. As&iacute; mismo, quiero manifestar mi profundo agradecimiento a Roc&iacute;o, Carlos, Osmar, Dennis y Claudio por todo el trabajo (muchas veces silencioso) que han realizado durante el binomio 2017-2019, y que nos ha permitido conseguir todos los avances antes expuestos.</p><p>
+Mucho &eacute;xito para el pr&oacute;ximo Directorio, y sobre todo para quien ocupe el cargo de presidente/a durante los siguientes dos a&ntilde;os. &iexcl;Vamos por m&aacute;s!</p>
             <p>Saluda atentamente,</p>
-            <p class="text-right" style="font-style: italic"> Marco Correa P&eacute;rez<br /> Presidente</p>
+            <p class="text-right" style="font-style: italic"> Marco Correa P&eacute;rez Presidente</p>
             </div>
         </div>
       </div>
@@ -37,7 +36,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Información General</h2><br />
+            <h2 class="section-heading">Información General</h2>
             <hr class="my-4">
           </div>
         </div>
@@ -99,7 +98,7 @@
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style lang="css">

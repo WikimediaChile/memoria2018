@@ -3,49 +3,36 @@
 
         <app-section :elemento="data.u" :metricas="data.u.metricas" :images="data.u.imagenes">
             <p>
-            Desarrollamos por quinto año consecutivo el proyecto <a href="https://es.wikipedia.org/wiki/Wikipedia:Wikimedia_Chile/Wikipedia_en_la_Universidad" target="_blank">Wikipedia en la Universidad</a>,
-            donde se generan instancias de colaboración
-            con profesores de cátedras universitarias para fomentar la edición y utilización de contenidos en Wikipedia y Wikimedia Commons por los alumnos y alumnas.
+                Para 2018, Wikimedia Chile consolidó su modelo de acompañamiento a los profesores universitarios en sus cátedras para los estudiantes pudieran crear y mejorar contenidos en Wikipedia y Wikimedia Commons. El programa <b>Wikipedia en Universidad</b> ha trabajado con profesores de la Universidad Alberto Hurtado, Universidad Tecnológica Metropolitana, Pontificia Universidad Católica de Chile, Universidad del Desarrollo, Universidad de Chile e Inacap.
             </p>
             <p>
-            El trabajo desarrollado con los estudiantes de las cátedras universitarias consiste fundamentalmente en
-            impartir un taller de edición inicial, donde se explican los pilares y metodología de edición en Wikipedia,
-            para luego realizar un acompañamiento a los estudiantes y profesores en la creación y mejoramiento de los
-            artículos propuestos para la clase.
+                En este modelo de cooperación, los académicos se muestran satisfechos por los logros que consiguen sus estudiantes, debido a que entregan más valor a la producción literaria, permite discriminar activamente las fuentes de datos y abordar, desde una mirada más integral, las fuentes de información que se proponen en el mundo.
             </p>
             <p>
-                En 2017 se desarrollaron actividades en la <b>Universidad Alberto Hurtado</b> (UAH),
-                con el profesor Enzo Abbagliati (cuyo curso participó por tercer año consecutivo en el proyecto);
-                en la <b>Universidad Tecnológica Metropolitana</b> (UTEM), con los profesores Guillermo Toro y Héctor Gómez;
-                y en la <b>Universidad de Playa Ancha</b> (UPLA) e <b>Inacap</b>, nacidas a partir de la iniciativa de los profesores
-                Edgardo Figueroa y Sergio Pérez.
-            </p>
-            <p>
-                En total, Wikimedia Chile pudo desarrollar 4 talleres con más de 100 estudiantes capacitados, quienes crearon y mejoraron 63 artículos en total. La evaluación de este programa por parte de los docentes en general es positiva y también sobre el acompañamiento realizado a los estudiantes y a los mismos profesores.
-            </p>
-            <h3>Nuevo formato de colaboración</h3>
-            <p>
-                Las actividades en la UPLA e Inacap fueron inéditas, no solo porque se hizo uso del formato de editatón, que no suele ser utilizado dentro del programa de Educación, sino que también porque, al ser realizadas en carreras de traducción, se generaron artículos sobre Valparaíso para la Wikipedia en inglés, siendo la primera vez que nuestras actividades presenciales involucran idiomas que no sean el español. Así mismo, la actividad realizada en la UPLA contó con una charla sobre Wikimedia dictada íntegramente en inglés, ante alumnos y profesores en el aula magna de dicha casa de estudios.
-            </p>
-            <h3>#1lib1ref</h3>
-            <p>Así mismo, una de las actividades realizadas en la UTEM consistió en un taller incluido dentro de la <a href="https://meta.wikimedia.org/wiki/The_Wikipedia_Library/1Lib1Ref/es" target="_blank">iniciativa global “1 Lib 1 Ref”</a> (1 Bibliotecario, 1 Referencia), que, como su nombre lo indica, tiene como objetivo añadir referencias a los artículos que carecen de las mismas en Wikipedia en español. Dicha actividad contó con la participación de 25 estudiantes y se mejoraron igual cantidad de artículos. Este ejercicio permitió que los alumnos pudieran ejercitar la metodología de referencias, en especial mediante el uso de catálogos y revistas indexadas, cuya aplicación en Wikipedia  se ve facilitada por el uso del Editor Visual.
+                Con este tipo de ejericios, los estudiantes pueden cooperar activamente con el conocimiento libre, subiendo informaciónm inexistente en Wikipedia, contribuyendo con más imágenes o difundiendo contenido que antes no estaba disponible en Internet en forma gratuita para la comunidad chilena y mundial.
             </p>
         </app-section>
 
         <app-section :elemento="data.wikipuentes">
             <p>
-                A fines de 2017 se adoptó la decisión de implementar una versión local del <a href="http://wikimedia.org.ar/wikipuentes/" target="_blank">proyecto educativo Wikipuentes</a>, desarrollado e implementado por <a href="http://wikimedia.org.ar/" target="_blank">Wikimedia Argentina</a>, que consiste en un curso masivo en línea destinado a docentes de educación básica y media. El capítulo argentino nos ha facilitado el material de formación docente de Wikipuentes, que se enfoca en el uso de contenidos de Wikipedia en las salas de clases.
+                En 2018 implementamos dos versiones de Wikipuentes, donde se invitaron a los profesores a participar de un portal a distancia para la capacitación en el uso de herramientas Wikimedia en sus proyectos educativos locales. En ambas versiones contamos con el apoyo de Vania Barrueto, profesora de la Universidad Católica de Chile, quien asistió a los profesores que tomaron el curso. En total, 18 docentes participaron en ambas versiones del campus virtual.
             </p>
             <p>
-                Dentro de las actividades de preparación del proyecto ejecutadas durante 2017 están la adaptación de algunos contenidos al contexto chileno, cambios de estilo y el desarrollo de pruebas piloto con profesores invitados, quienes han brindado la necesaria retroalimentación acerca del portal. Se espera que el curso esté disponible para su primera edición nacional durante el primer semestre de 2018.
+                Como parte de la evaluación del proyecto, la importación de contenidos que se hizo de la iniciativa argentina es buena, pero no se adaptó a la realidad de los docentes chilenos, por lo cual durante 2019 se trabajará en adaptar los formatos y contenidos para que el material sea más claro y preciso para las personas que participen en los cursos a distancia.
+            </p>
+        </app-section>
+
+        <app-section :elemento="data.videotutoriales" :metricas="data.videotutoriales.metricas">
+            <p>
+                Para mejorar la información de capacitación, durante el año 2018, se produjeron una <a href="http://youtube.wikimedia.cl" target="_blank">serie de videos</a> que contribuyen como refuerzo de aprendizaje a estudiantes y personas que deseen contribuir en Wikipedia. Los materiales, subidos a Wikimedia Commons, se han difundido a los diversos países de habla hispana a través de la red Iberocoop, y han formado parte en algunas publicaciones en redes sociales, para concientizar el cuidado que se debe tener con Wikipedia.
             </p>
         </app-section>
     </div>
 </template>
 
 <script>
-import Section from './mixin/Section'
-import data from '../data/educacion.json'
+import Section from "./mixin/Section";
+import data from "../data/educacion.json";
 export default {
   components: {
     AppSection: Section
@@ -53,8 +40,7 @@ export default {
   data() {
     return {
       data
-    }
+    };
   }
-
-}
+};
 </script>

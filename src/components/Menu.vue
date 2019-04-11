@@ -1,7 +1,7 @@
 <template lang="html">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink" id="mainNav">
       <div class="container">
-          <router-link :to="{path: '/', hash: '#top'}" id="top" class="navbar-brand">Memoria 2017</router-link>
+          <router-link :to="{path: '/', hash: '#top'}" id="top" class="navbar-brand">Memoria 2018</router-link>
         <button
             class="navbar-toggler navbar-toggler-right"
             type="button"

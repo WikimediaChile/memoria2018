@@ -1,11 +1,14 @@
 {
-  "cambios": {
-    "titulo": "Cambios organizaciones"
-  },
   "reportes": {
     "titulo": "Reportes y solicitudes de fondos"
   },
   "wikimedia": {
+    "titulo": "Wikimedia Chile en el movimiento Wikimedia"
+  },
+  "convenios": {
+    "titulo": "Wikimedia Chile en el movimiento Wikimedia"
+  },
+  "staff": {
     "titulo": "Wikimedia Chile en el movimiento Wikimedia"
   }
 }

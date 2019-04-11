@@ -2,136 +2,119 @@
 	"charlas": {
 		"titulo": "Charlas",
 		"pull": true,
-		"metricas": [{
-				"numero": 5,
+		"metricas": [
+			{
+				"numero": 4,
 				"metrica": "charlas y presentaciones"
 			},
 			{
-				"numero": "+200",
+				"numero": "150+",
 				"metrica": "participantes"
-			}
-		],
-		"imagenes": [{
-				"title": "Virtual Educa Chile 2017",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Virtual_Educa_2017_Chile_05.jpg/640px-Virtual_Educa_2017_Chile_05.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Virtual_Educa_2017_Chile_05.jpg/1024px-Virtual_Educa_2017_Chile_05.jpg"
-			},
-			{
-				"title": "Charlas - Editatón Mujeres Artistas",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Editat%C3%B3n_de_Mujeres_Artistas_-_Taller_de_edici%C3%B3n_1_-_17.jpg/1024px-Editat%C3%B3n_de_Mujeres_Artistas_-_Taller_de_edici%C3%B3n_1_-_17.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Editat%C3%B3n_de_Mujeres_Artistas_-_Taller_de_edici%C3%B3n_1_-_17.jpg/640px-Editat%C3%B3n_de_Mujeres_Artistas_-_Taller_de_edici%C3%B3n_1_-_17.jpg"
-			},
-			{
-				"title": "Discusión Estrategia 2030",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_Wikimedia_movement_strategy_-_Wikimedia_Chile_expert_meeting_47.jpg/1024px-2017_Wikimedia_movement_strategy_-_Wikimedia_Chile_expert_meeting_47.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_Wikimedia_movement_strategy_-_Wikimedia_Chile_expert_meeting_47.jpg/640px-2017_Wikimedia_movement_strategy_-_Wikimedia_Chile_expert_meeting_47.jpg"
 			}
 		]
 	},
 	"editatones": {
 		"titulo": "Editatones",
 		"pull": false,
-		"metricas": [{
-				"numero": 2,
+		"metricas": [
+			{
+				"numero": 6,
 				"metrica": "eventos"
 			},
 			{
-				"numero": 88,
+				"numero": 111,
 				"metrica": "participantes"
 			},
 			{
-				"numero": 66,
+				"numero": 126,
 				"metrica": "artículos creados o mejorados"
 			}
 		],
-		"imagenes": [{
+		"imagenes": [
+			{
 				"title": "Mujeres Artistas",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Editat%C3%B3n_de_Mujeres_Artistas_-_62.jpg/640px-Editat%C3%B3n_de_Mujeres_Artistas_-_62.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Editat%C3%B3n_de_Mujeres_Artistas_-_62.jpg/640px-Editat%C3%B3n_de_Mujeres_Artistas_-_62.jpg"
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Editat%C3%B3n_de_Mujeres_Artistas_2018_-_18.jpg/1024px-Editat%C3%B3n_de_Mujeres_Artistas_2018_-_18.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Editat%C3%B3n_de_Mujeres_Artistas_2018_-_18.jpg/640px-Editat%C3%B3n_de_Mujeres_Artistas_2018_-_18.jpg"
 			},
 			{
-				"title": "Día Internacional de la Mujer",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Editat%C3%B3n_del_D%C3%ADa_Internacional_de_la_Mujer_2017_11.jpg/1024px-Editat%C3%B3n_del_D%C3%ADa_Internacional_de_la_Mujer_2017_11.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Editat%C3%B3n_del_D%C3%ADa_Internacional_de_la_Mujer_2017_11.jpg/640px-Editat%C3%B3n_del_D%C3%ADa_Internacional_de_la_Mujer_2017_11.jpg"
+				"title": "WikiDDHH",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wiki_DDHH_Chile_2018_12.jpg/1024px-Wiki_DDHH_Chile_2018_12.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wiki_DDHH_Chile_2018_12.jpg/640px-Wiki_DDHH_Chile_2018_12.jpg"
 			},
 			{
-				"title": "Editatón Universidad de Playa Ancha",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Editat%C3%B3n_2017_Upla_32.jpg/1280px-Editat%C3%B3n_2017_Upla_32.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Editat%C3%B3n_2017_Upla_32.jpg/640px-Editat%C3%B3n_2017_Upla_32.jpg"
+				"title": "WikiGap",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Asistentes_WikiGap_Chile_2018_8.jpg/1024px-Asistentes_WikiGap_Chile_2018_8.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Asistentes_WikiGap_Chile_2018_8.jpg/640px-Asistentes_WikiGap_Chile_2018_8.jpg"
 			}
 		]
 	},
 	"concursos": {
 		"titulo": "Concursos",
 		"pull": true,
-		"metricas": [{
-				"numero": 2,
+		"metricas": [
+			{
+				"numero": 3,
 				"metrica": "concursos"
 			},
 			{
-				"numero": "+300",
+				"numero": "+200",
 				"metrica": "participantes"
 			},
 			{
-				"numero": 71,
+				"numero": 1071,
 				"metrica": "imágenes nuevas"
-			},
-			{
-				"numero": "+600",
-				"metrica": "artículos nuevos"
 			}
 		],
-		"imagenes": [{
-				"title": "Wiki Ciencia 2017 - Carpinterito",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carpinterito.jpg/1024px-Carpinterito.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carpinterito.jpg/640px-Carpinterito.jpg"
+		"imagenes": [
+			{
+				"title": "Guanaco Patagonico - Wiki Loves Earth",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Guanaco_Patagonico.jpg/1280px-Guanaco_Patagonico.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Guanaco_Patagonico.jpg/640px-Guanaco_Patagonico.jpg"
 			},
 			{
-				"title": "Wiki Ciencia 2017 - Filamento de Tungsteno al microscopio",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/B_3.00X50.tif/lossy-page1-1024px-B_3.00X50.tif.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/B_3.00X50.tif/lossy-page1-1024px-B_3.00X50.tif.jpg"
+				"title": "Laguna San Rafael - Wiki Loves Earth",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Laguna_San_Rafael_1.jpg/1280px-Laguna_San_Rafael_1.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Laguna_San_Rafael_1.jpg/640px-Laguna_San_Rafael_1.jpg"
 			},
 			{
-				"title": "Wiki Ciencia 2017 - Cruzando en bote el fiordo Amalia",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cruce_en_bote_fiordo_Amalia.jpg/1024px-Cruce_en_bote_fiordo_Amalia.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cruce_en_bote_fiordo_Amalia.jpg/640px-Cruce_en_bote_fiordo_Amalia.jpg"
+				"title": "Atarceder en La Portada - Wiki Loves Earth",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Atardecer_en_Monumento_Natural_La_Portada.jpg/1280px-Atardecer_en_Monumento_Natural_La_Portada.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Atardecer_en_Monumento_Natural_La_Portada.jpg/640px-Atardecer_en_Monumento_Natural_La_Portada.jpg"
 			}
 		]
 	},
 	"fotos": {
 		"titulo": "Cobertura de deportes y otros eventos",
 		"pull": false,
-		"metricas": [{
-				"numero": 5,
+		"metricas": [
+			{
+				"numero": "4+",
 				"metrica": "eventos"
 			},
 			{
-				"numero": 267,
+				"numero": "700+",
 				"metrica": "fotografías"
 			},
 			{
-				"numero": 13,
+				"numero": "70+",
 				"metrica": "imágenes de calidad"
-			},
-			{
-				"numero": 96,
-				"metrica": "artículos ilustrados"
 			}
 		],
-		"imagenes": [{
-				"title": "Teletón 2017 - Animadores",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Telet%C3%B3n_2017_-_Karla_Constant%2C_Jos%C3%A9_Miguel_Vi%C3%B1uela_y_Diana_Bolocco_-_02.jpg/1256px-Telet%C3%B3n_2017_-_Karla_Constant%2C_Jos%C3%A9_Miguel_Vi%C3%B1uela_y_Diana_Bolocco_-_02.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Telet%C3%B3n_2017_-_Karla_Constant%2C_Jos%C3%A9_Miguel_Vi%C3%B1uela_y_Diana_Bolocco_-_02.jpg/640px-Telet%C3%B3n_2017_-_Karla_Constant%2C_Jos%C3%A9_Miguel_Vi%C3%B1uela_y_Diana_Bolocco_-_02.jpg"
+		"imagenes": [
+			{
+				"title": "Valparaíso Cerro Abajo",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Valpara%C3%ADso_Cerro_Abajo_2018_-_Marcelo_Guti%C3%A9rrez_-_01.jpg/1024px-Valpara%C3%ADso_Cerro_Abajo_2018_-_Marcelo_Guti%C3%A9rrez_-_01.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Valpara%C3%ADso_Cerro_Abajo_2018_-_Marcelo_Guti%C3%A9rrez_-_01.jpg/640px-Valpara%C3%ADso_Cerro_Abajo_2018_-_Marcelo_Guti%C3%A9rrez_-_01.jpg"
 			},
 			{
-				"title": "Procesión de la Virgen del Carmen",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Procesi%C3%B3n_de_la_Virgen_del_Carmen_2017_-_11.jpg/1024px-Procesi%C3%B3n_de_la_Virgen_del_Carmen_2017_-_11.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Procesi%C3%B3n_de_la_Virgen_del_Carmen_2017_-_11.jpg/640px-Procesi%C3%B3n_de_la_Virgen_del_Carmen_2017_-_11.jpg"
+				"title": "Teletón 2018",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Telet%C3%B3n_2018_27.jpg/1024px-Telet%C3%B3n_2018_27.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Telet%C3%B3n_2018_27.jpg/640px-Telet%C3%B3n_2018_27.jpg"
 			},
 			{
-				"title": "Hecho en Casa Fest 2017 - Mariposas Chilensis",
-				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hecho_en_Casa_Fest_2017_-_Mariposas_chilensis_01.jpg/1280px-Hecho_en_Casa_Fest_2017_-_Mariposas_chilensis_01.jpg",
-				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hecho_en_Casa_Fest_2017_-_Mariposas_chilensis_01.jpg/640px-Hecho_en_Casa_Fest_2017_-_Mariposas_chilensis_01.jpg"
+				"title": "Universidad de Chile - Colo Colo",
+				"href": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Universidad_de_Chile_-_Colo-Colo%2C_2018-04-15_-_1_a_2_de_Colo-Colo.jpg/1024px-Universidad_de_Chile_-_Colo-Colo%2C_2018-04-15_-_1_a_2_de_Colo-Colo.jpg",
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Universidad_de_Chile_-_Colo-Colo%2C_2018-04-15_-_1_a_2_de_Colo-Colo.jpg/640px-Universidad_de_Chile_-_Colo-Colo%2C_2018-04-15_-_1_a_2_de_Colo-Colo.jpg"
 			}
 		]
 	}

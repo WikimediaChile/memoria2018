@@ -15,8 +15,14 @@
                     <a href="https://twitter.com/wikimedia_cl" class="btn btn-outline-light">
                     <i class="fa fa-twitter sr-contact"></i>
                     </a> /
+                    <a href="https://instagram.com/wikimedia_cl" class="btn btn-outline-light">
+                    <i class="fa fa-instagram sr-contact"></i>
+                    </a> /
                     <a href="https://facebook.com/wikimediaCL" class="btn btn-outline-light">
                         <i class="fa fa-facebook"></i>
+                    </a> /
+                    <a href="http://youtube.wikimedia.cl" class="btn btn-outline-light">
+                        <i class="fa fa-youtube"></i>
                     </a> /
                     <a href="https://wikimedia.cl" class="btn btn-outline-light">
                         <i class="fa fa-globe"></i>
@@ -39,10 +45,3 @@
     </div>
 </section>
 </template>
-
-<script>
-export default {}
-</script>
-
-<style lang="css">
-</style>
