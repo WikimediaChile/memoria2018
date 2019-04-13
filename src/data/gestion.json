@@ -9,6 +9,23 @@
     "titulo": "Convenios firmados"
   },
   "staff": {
-    "titulo": "Contratación de personas"
+    "titulo": "Profesionalización del capítulo",
+    "imagenes": [
+      {
+        "title": "Patricia Díaz-Rubio, Coordinadora de Actividades WMCL",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Patricia_D%C3%ADaz_-_Staff_member_Wikimedia_Chile_02.jpg/1280px-Patricia_D%C3%ADaz_-_Staff_member_Wikimedia_Chile_02.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Patricia_D%C3%ADaz_-_Staff_member_Wikimedia_Chile_02.jpg/640px-Patricia_D%C3%ADaz_-_Staff_member_Wikimedia_Chile_02.jpg"
+      },
+      {
+        "title": "Firma del convenio con el Museo de la Memoria de Chile",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Visita_y_firma_convenio_Museo_de_la_Memoria_09.jpg/1280px-Visita_y_firma_convenio_Museo_de_la_Memoria_09.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Visita_y_firma_convenio_Museo_de_la_Memoria_09.jpg/450px-Visita_y_firma_convenio_Museo_de_la_Memoria_09.jpg"
+      },
+      {
+        "title": "¡Nosotros!",
+        "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Foto_grupal_Asamblea_general_ordinaria_de_socios_de_Wikimedia_Chile_2018.jpg/1024px-Foto_grupal_Asamblea_general_ordinaria_de_socios_de_Wikimedia_Chile_2018.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Foto_grupal_Asamblea_general_ordinaria_de_socios_de_Wikimedia_Chile_2018.jpg/450px-Foto_grupal_Asamblea_general_ordinaria_de_socios_de_Wikimedia_Chile_2018.jpg"
+      }
+    ]
   }
 }

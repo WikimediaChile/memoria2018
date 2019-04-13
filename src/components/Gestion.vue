@@ -44,7 +44,7 @@
             En julio, durante la visita de Katherine Meyer, Directora Ejecutiva de la Fundación Wikimedia, se firmó un convenio de cooperación para actividades con el Museo de la Memoria y los Derechos Humanos, donde se incluyen capacitaciones al personal, editatones a futuro y otras actividades de interés común.
           </p>
         </app-section>
-        <app-section :elemento="data.staff">
+        <app-section :elemento="data.staff" :images="data.staff.imagenes">
           <p>
             Para colaborar con el desarrollo de Wikipuentes, se realizó un llamado a cubrir el rol de difusión de la iniciativa, resultando en la incorporación como contratista de Vania Barrueto, quien colaboró en ambas ediciones semestrales de Wikipuentes en 2018.
           </p>
