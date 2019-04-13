@@ -41,7 +41,7 @@
           </p>
 
           <p>
-            En julio, durante la visita de Katherine Meyer, Directora Ejecutiva de la Fundación Wikimedia, se firmó un convenio de cooperación para actividades con el Museo de la Memoria y los Derechos Humanos, donde se incluyen capacitaciones al personal, editatones a futuro y otras actividades de interés común.
+            En julio, durante la visita de Katherine Maher, Directora Ejecutiva de la Fundación Wikimedia, se firmó un convenio de cooperación para actividades con el Museo de la Memoria y los Derechos Humanos, donde se incluyen capacitaciones al personal, editatones a futuro y otras actividades de interés común.
           </p>
         </app-section>
         <app-section :elemento="data.staff" :images="data.staff.imagenes">
