@@ -9,7 +9,7 @@
                 En este modelo de cooperación, los académicos se muestran satisfechos por los logros que consiguen sus estudiantes, debido a que entregan más valor a la producción literaria, permite discriminar activamente las fuentes de datos y abordar, desde una mirada más integral, las fuentes de información que se proponen en el mundo.
             </p>
             <p>
-                Con este tipo de ejericios, los estudiantes pueden cooperar activamente con el conocimiento libre, subiendo informaciónm inexistente en Wikipedia, contribuyendo con más imágenes o difundiendo contenido que antes no estaba disponible en Internet en forma gratuita para la comunidad chilena y mundial.
+                Con este tipo de ejercicios, los estudiantes pueden cooperar activamente con el conocimiento libre, subiendo información inexistente en Wikipedia, contribuyendo con más imágenes o difundiendo contenido que antes no estaba disponible en Internet en forma gratuita para la comunidad chilena y mundial.
             </p>
         </app-section>
 

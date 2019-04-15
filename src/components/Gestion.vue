@@ -2,11 +2,11 @@
     <div>
         <app-section :elemento="data.reportes">
         <p>
-          Durante 2018 se realizó al rendición de fondos del segundo semestre de 2017, siendo aprobado por la Fundación Wikimedia el 28 de marzo de 2018. El reporte incluyó las tareas de normalización del capítulos, producción de materiales y otros elementos que permitieron el funcionamiento del capítulo hasta el 28 de febrero de 2018.
+          Durante 2018 se <a href="https://meta.wikimedia.org/wiki/Grants:Simple/Applications/Wikimedia_Chile/2017-2018#Final_report" target="_blank">realizó al rendición de fondos del segundo semestre de 2017</a>, siendo aprobado por la Fundación Wikimedia el 28 de marzo de 2018. El reporte incluyó las tareas de normalización del capítulos, producción de materiales y otros elementos que permitieron el funcionamiento del capítulo hasta el 28 de febrero de 2018.
         </p>
 
         <p>
-          Para la solicitud de fondos de 2018, se presentó como programa de trabajo un *plan de trabajo anual* que permitió expandir la cantidad y calidad de las actividades de difusión, apoyo en generación de contenidos locales y organización interna. Así mismo, se apuntó la necesidad de externalizar servicios administrativos y actividades que no pueden ser desempañadas por voluntarios, con el fin de contar con horas pagadas para dichas tareas.
+          Para la <a href="https://meta.wikimedia.org/wiki/Grants:Simple/Applications/Wikimedia_Chile/2018" target="_blank"> solicitud de fondos de 2018</a>, se presentó como programa de trabajo un <a href="https://meta.wikimedia.org/wiki/Wikimedia_Chile/Plan_2018" target="_blank">plan de trabajo anual</a> que permitió expandir la cantidad y calidad de las actividades de difusión, apoyo en generación de contenidos locales y organización interna. Así mismo, se apuntó la necesidad de externalizar servicios administrativos y actividades que no pueden ser desempañadas por voluntarios, con el fin de contar con horas pagadas para dichas tareas.
         </p>
 
         <p>
@@ -20,15 +20,18 @@
           </p>
 
           <p>
-            En Wikimedia Conference 2018, desarrollada en Berlín, Alemania, participaron Marco Correa y Osmar Valdebenito, quienes aportaron en las discusiones finales de la Estrategia 2030, donde se hizo un repaso de las conclusiones que tuvieron la fase I de la consulta al movimiento.
+            En <a href="https://meta.wikimedia.org/wiki/Wikimedia_Conference_2018" target="_blank">Wikimedia Conference 2018</a>, desarrollada en Berlín, Alemania, participaron Marco Correa y Osmar Valdebenito, quienes aportaron en las discusiones finales de la Estrategia 2030, donde se hizo un repaso de las conclusiones que tuvieron la fase I de la consulta al movimiento.
           </p>
 
           <p>
-            En mayo, participamos en la Wikimedia Hackathon, desarrollada en Barcelona, España. En la instancia, Dennis Tobar compartió experiencias, herramientas y nuevos desarrollos con la comunidad en español, estrechando lazos con voluntarios de Wikimedia Argentina, Wikimedia España y Amical.
+            En mayo, participamos en la <a href="https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2018" target="_blank">Wikimedia Hackathon</a>, desarrollada en Barcelona, España. En la instancia, Dennis Tobar compartió experiencias, herramientas y nuevos desarrollos con la comunidad en español, estrechando lazos con voluntarios de Wikimedia Argentina, Wikimedia España y Amical.
           </p>
 
           <p>
-            En julio, se desarrolló la versión 2018 de Wikimania en la Ciudad del Cabo, Sudáfrica. En la instancia participaron Osmar Valdebenito, Marco Correa y Carlos Figueroa. El encuentro, desarrollado por segunda vez en un país africano, se centró en la generación del conocimiento a partir del Sur Global y la visión africana acerca del movimiento Wikimedia. En la reunión de Iberocoop de esta conferencia, se elige a Wikimedia Chile como próximo organizador de la conferencia regional de Iberocoop, Iberoconf.
+            En julio, se desarrolló la <a href="https://wikimania2018.wikimedia.org/wiki/Wikimania" target="_blank">versión 2018 de Wikimania</a> en la Ciudad del Cabo, Sudáfrica. En la instancia participaron Osmar Valdebenito, Marco Correa y Carlos Figueroa. El encuentro, desarrollado por segunda vez en un país africano, se centró en la generación del conocimiento a partir del Sur Global y la visión africana acerca del movimiento Wikimedia. En la reunión de Iberocoop de esta conferencia, se elige a Wikimedia Chile como próximo organizador de la conferencia regional de Iberocoop, Iberoconf.
+          </p>
+          <p>
+            En noviembre, Carlos Figueroa participó en el <a href="https://meta.wikimedia.org/wiki/GLAMTLV2018/Welcome" target="_blank">encuentro GLAM Wiki</a> en Tel Aviv, Israel. El encuentro, que congregó a especialistas del área de conservación, digitalización y difusión de contenidos en bibliotecas, galerías, museos y archivos, se vio marcado por la urgencia en la preservación de objetos de valor patrimonial tras el incendio en el Museo Nacional de Brasil en Río de Janeiro.
           </p>
         </app-section>
         <app-section :elemento="data.convenios">

@@ -5,7 +5,7 @@
             Estuvimos presente en diversas actividades dictando charlas a personas e instituciones que se interesaron por acercarse a los proyectos Wikimedia. <br />Los voluntarios de Wikimedia Chile realizaron charlas en la Biblioteca Nacional de Chile, el Instituto de la Comunicación e Imagen de la Universidad de Chile, la conferencia TecnoX 2018 en Valparaíso.
           </p>
           <p>
-            En todas estas instancias, las personas que participaron en los eventos presentaron inquietudes de cómo integrar y los mecanismos para contribuir en los proyectos Wikimedia. La mayoría de las charlas fueron de presentación de los proyectos y cómo el conocimiento lobre está siendo un tema de importancia en diversas esferas de la ciudadanía y la formación de futuros profesionales, así como fuente verificación para evitar difundir las <i>fake news</i>.
+            En todas estas instancias, las personas que participaron en los eventos presentaron inquietudes de cómo integrar y los mecanismos para contribuir en los proyectos Wikimedia. La mayoría de las charlas fueron de presentación de los proyectos y cómo el conocimiento libre está siendo un tema de importancia en diversas esferas de la ciudadanía y la formación de futuros profesionales, así como fuente verificación para evitar difundir las <i>fake news</i>.
           </p>
         </app-section>
 
@@ -14,14 +14,14 @@
               En 2018, desarrollamos diversas editatones con varias instituciones que por primera vez colaboraron con nuestra organización.
             </p>
             <p>
-              En abril, junto a la Embajada de Suecia en Chile y colaboración con el Centro Cultural Palacio de La Moneda desarrollamos <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/WikiGap_Santiago_2018" target="_blank">Wiki Gap</a>, evento que persiguió la creación de artículos de mujeres en el cine chileno y sueco. Contó cno la participación de personas suecohablantes, quienes crearon artículos en su idioma acerca de actrices chilenas.
+              En abril, junto a la Embajada de Suecia en Chile y colaboración con el Centro Cultural Palacio de La Moneda desarrollamos <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/WikiGap_Santiago_2018" target="_blank">Wiki Gap</a>, evento que persiguió la creación de artículos de mujeres en el cine chileno y sueco. Contó con a participación de personas sueco hablantes, quienes crearon artículos en su idioma acerca de actrices chilenas.
             </p>
             <p>
               En mayo, nos desplazamos hasta la región de Aysén, para profundizar una alianza regional que realizamos en 2017. En el evento denominado <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Editat%C3%B3n_de_Wikipedia_sobre_el_patrimonio_de_Ays%C3%A9n" target="_blank">Editatón sobre el patrimonio de Aysén</a> los voluntarios de Wikimedia Chile ayudaron a la comunidad local a integrar contenidos relevantes de Aysén en Wikipedia, para profundizar la cobertura de contenidos locales en los proyectos Wikimedia. A raíz de este evento, firmamos un convenido de colaboración entre el Museo Regional de Aysén y Wikimedia Chile, para explorar nuevas formas de colaboración a distancia y posiblemente presencial durante 2019.
             </p>
 
             <p>
-              En junio, desarrollamos una versión local de <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/1bib1ref_2018" target="_blank">#1bib1ref</a> (<i>en inglés #1lib1ref</i>), evento donde se invitan a los bibliotecarios y biliotecarias a mejorar Wikipedia con referencias, basándose en el conocimiento de cómo realizar citas en y el libre acceso a determinadas fuentes de información. La jornada se desarrolló en al Biblioteca de Santiago y contó con la colaboración de la Escuela de Bibliotecología y la Vicerrectoría de Transferencia Tecnológica y Extensión de la Universidad Tecnológica Metropolitana.
+              En junio, desarrollamos una versión local de <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/1bib1ref_2018" target="_blank">#1bib1ref</a> (<i>en inglés #1lib1ref</i>), evento donde se invitan a los bibliotecarios y bibliotecarias a mejorar Wikipedia con referencias, basándose en el conocimiento de cómo realizar citas en y el libre acceso a determinadas fuentes de información. La jornada se desarrolló en al Biblioteca de Santiago y contó con la colaboración de la Escuela de Bibliotecología y la Vicerrectoría de Transferencia Tecnológica y Extensión de la Universidad Tecnológica Metropolitana.
             </p>
 
             <p>
@@ -29,8 +29,11 @@
             </p>
 
             <p>
-              A inicios del mes de septiembre, en conjunto de la Biblioteca Regional de Coquimbo desarrollamos <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Editat%C3%B3n_de_Wikipedia_en_la_Biblioteca_Regional_Gabriela_Mistral" target="_blank">una editatón para mejorar contenidos</a> locales de la región y de Gabriela Mistral. En esta ocasión se presentó el concurso del Mes de Mistral, concurso quelogró mejorar los contenidos de Gabriela Mistral en Wikipedia en español.
+              A inicios del mes de septiembre, en conjunto de la Biblioteca Regional de Coquimbo desarrollamos <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Editat%C3%B3n_de_Wikipedia_en_la_Biblioteca_Regional_Gabriela_Mistral" target="_blank">una editatón para mejorar contenidos</a> locales de la región y de Gabriela Mistral. En esta ocasión se presentó el concurso del Mes de Mistral, concurso que logró mejorar los contenidos de Gabriela Mistral en Wikipedia en español.
             </p>
+
+            <p>
+              A inicios de noviembre se desarrolló la <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/II_Editat%C3%B3n_de_Mujeres_Artistas" target="_blank">editatón de Mujeres Artistas</a>, en colaboración con el Museo Nacional de Bellas Artes. En la jornada, se ampliaron artículos de mujeres chilenas insertas en las artes visuales y plásticas que no poseían artículo en Wikipedia</a>
 
             <p>
               Por último, a mediados de diciembre surgieron dos editatones que buscaron <a href="https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Primera_Editat%C3%B3n_de_Escritores_Chilenos" target="_blank">documentar a los escritores chilenos</a> y las mujeres en la arquitectura nacional. En la primera editatón, desarrollada el 15 de diciembre, contó con la participación de la Sociedad de Escritores de Chile, Vicerrectoría de Transferencia Tecnológica y Extensión de la Universidad Tecnológica Metropolitana y la Facultad de Administración y Economía de la UTEM. En la editatón de mujeres arquitectas, la jornada se desarrolló en la Facultad de Arquitectura y Urbanismo de la Universidad de Chile.
